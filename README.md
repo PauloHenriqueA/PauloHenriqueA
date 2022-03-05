@@ -18,5 +18,10 @@
  <img align="center" alt="CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  <img align="center" alt="JS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
+ 
+ 
 
-![Snake animation](https://github.com/PauloHenriqueA/PauloHenriqueA/blob/output/github-contribution-grid-snake.svg)
+## ![Code Programmer](https://github.com/PauloHenriqueA/PauloHenriqueA/blob/main/code-programmer%20(1).gif)
+  
+  
+### ![Snake animation](https://github.com/PauloHenriqueA/PauloHenriqueA/blob/output/github-contribution-grid-snake.svg)
