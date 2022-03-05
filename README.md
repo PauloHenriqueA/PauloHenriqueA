@@ -1,9 +1,14 @@
-### Welcome to my page, the Paulo´s page!!
+# Welcome to my page, the Paulo´s page!!
 
+## When started:
 I inciciated in programation in 2022 and I wish to be Web Developer Full-Stack. 
+### Languages I´m learning and I know:
 I started learn HTML, CSS and JS, just beggining...
+#### I´m from... and how I want work:
 I´m from Brazil and I aim have a remote work.
+##### Others knowlegde:
 I know a basic of English, but learning  more everyday.
+###### Contact me:
 My contact for possibles jobs: paulohacf1@gmail.com
 
 
