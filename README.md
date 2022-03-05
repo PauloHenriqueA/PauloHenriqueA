@@ -1,10 +1,11 @@
 ### Welcome to my page, the Paulo´s page!!
 
+I inciciated in programation in 2022 and I wish to be Web Developer Full-Stack. 
+I started learn HTML, CSS and JS, just beggining...
+I´m from Brazil and I aim have a remote work
+I know a basic of English, but learning  more everyday
+My contact for possibles jobs: paulohacf1@gmail.com
 
-
-- 🔭 Nothing, but I wish to be a full-stack developer
-- 🌱 HTML, CSS, JS
-- 📫 paulohacf1@gmail.com
 
 
 <div align="center">
